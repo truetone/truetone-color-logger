@@ -1,0 +1,11 @@
+{
+  "name": "truetone-color-logger",
+  "version": "0.1.0",
+  "description": "A simple logger with grouping and color",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "author": "Tony Thomas <truetone@gmail.com>",
+  "license": "MIT"
+}

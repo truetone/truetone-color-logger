@@ -1,6 +1,6 @@
 {
   "name": "truetone-color-logger",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple logger with grouping and color",
   "main": "index.js",
   "homepage": "https://github.com/truetone/truetone-color-logger#readme",
